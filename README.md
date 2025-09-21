@@ -1,0 +1,2 @@
+# ReviewSense-AI-Advanced-Sentiment-Intelligence-for-Restaurant-Feedback
+Engineered a high-performance NLP pipeline leveraging advanced tokenization, custom stopword filtering, and Porter stemming for robust text preprocessing. Trained and optimized a Gaussian Naive Bayes classifier using a Bag-of-Words model with strategic feature selection (max_features=1500) to enhance model interpretability and performance.
